@@ -1,6 +1,6 @@
 {
   inputs = {
-    hyprland.url = "github:hyprwm/hyprland/5c9377c15f85c50648f35ca5a213754f95b93ca0";
+    hyprland.url = "github:hyprwm/hyprland/efb50993780079460b0cbed1363e2166a2de1d9f";
   };
 
   outputs = {
